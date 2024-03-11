@@ -1,0 +1,19 @@
+{
+    "css.hover.references": false,
+    "less.hover.references": false,
+    "scss.hover.references": false,
+    "html.hover.references": false,
+    "editor.hover.above": false,
+    "editor.hover.enabled": false,
+    "editor.hover.sticky": false,
+    "accessibility.verbosity.hover": false,
+    "css.hover.documentation": false,
+    "scss.hover.documentation": false,
+    "html.hover.documentation": false,
+    "npm.scriptHover": false,
+    "accessibility.verbosity.inlineCompletions": false,
+    "editor.scrollbar.ignoreHorizontalScrollbarInContentHeight": false,
+    "workbench.list.horizontalScrolling": false,
+    "editor.minimap.autohide": false,
+    "editor.minimap.showSlider": "mouseover"
+}
